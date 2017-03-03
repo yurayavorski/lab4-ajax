@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<guitars>
+    <guitar>
+        <manufacturer>Gibson</manufacturer>
+        <model>Les Paul</model>
+    </guitar>
+    <guitar>
+        <manufacturer>Fender</manufacturer>
+        <model>Stratocaster</model>
+    </guitar>
+</guitars>
